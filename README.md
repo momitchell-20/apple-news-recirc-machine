@@ -16,11 +16,6 @@ Each day, the workflow reviews the eligible story pool, filters out pieces that 
 
 The goal is to increase the number of stories shared through the Apple News evergreen channel, moving from roughly 1 per week to 5 per day, while improving total engagement minutes on Apple News+.
 
-## Collaborators
-
-- Meryl Gottlieb, Director, Business Development
-- Corina Pintado, Senior Audience Editor, Partnerships & Web Social
-
 ## Workflow
 
 This repo contains the analysis and recommendation workflow used to score stories, generate the daily shortlist, and write the supporting output files.
